@@ -10,7 +10,7 @@ Crystal Ring: useful
 Cyan Chaos Emerald: progression
 Dynamite: progression
 Egglift: progression
-Emblem: progression
+Emblem: mcguffin
 Employee Card: progression
 Extra Life: filler
 Fighting Gloves: useful
